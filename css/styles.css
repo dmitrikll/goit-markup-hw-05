@@ -756,15 +756,9 @@ transform: translateY(0%);
   color: var(--secondary-text-color);
 }
 
-
-.portfolio-example-title:hover,
-.portfolio-example-title:focus,
-.portfolio-example-discr:hover,
-.portfolio-example-discr:focus {
-  color: var(--accent-color);
-}
-
 /* ===== end HERO ===== portfolio.html ===== */
+
+/* ===== MODAL ===== */
 
 .backdrop {
   position: fixed;
